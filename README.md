@@ -18,7 +18,7 @@
 
 ### Системные зависимости
 
-**Ubuntu/Debian:**
+**Linux:**
 ```bash
 sudo apt install libwebkit2gtk-4.0-dev \
     build-essential curl wget libssl-dev \
@@ -26,13 +26,6 @@ sudo apt install libwebkit2gtk-4.0-dev \
     librsvg2-dev
 ```
 
-**macOS:**
-```bash
-brew install gtk+3
-```
-
-**Windows:**  
-Установите [Microsoft Visual Studio C++ Build Tools](https://visualstudio.microsoft.com/downloads/)
 
 ## 🚀 Быстрый старт
 
